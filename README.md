@@ -10,4 +10,4 @@ Step 3: run command `streamlit run main.py`
 
 ### Deployment
 
-The website is deployed on streamlit cloud at `https://prasang023-real-time-spam-detection-ml-model-main-qzcybd.streamlit.app/`
+The website is deployed on streamlit cloud at https://prasang023-real-time-spam-detection-ml-model-main-qzcybd.streamlit.app/
