@@ -1,0 +1,5 @@
+tweepy
+streamlit
+pandas
+sklearn
+scikit-learn
